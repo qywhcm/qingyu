@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://ys.qywhcm.cn:9999/qyys.ipa</string>
+     <string>https://raw.githubusercontent.com/qywhcm/qingyu/master/qyys.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
