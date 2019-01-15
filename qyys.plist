@@ -15,31 +15,27 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<string>display-image</string>
 					<key>url</key>
-					<string>http://ys.qywhcm.cn:9999/public/static/images/logo.png</string>
+					<string>https://www.baidu.com</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://ys.qywhcm.cn:9999/public/static/images/logo.png</string>
+					<string>https://www.baidu.com</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxxx.demo</string>
+				<string>com.SolarSoft.SolarWallet</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>XXXX App download</string>
+				<string>chjz.0</string>
 			</dict>
 		</dict>
 	</array>
